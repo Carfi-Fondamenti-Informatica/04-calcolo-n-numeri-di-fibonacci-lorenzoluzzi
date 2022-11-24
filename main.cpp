@@ -7,7 +7,7 @@ int main() {
    cin >> n;
    if (n >=2) {
       cout << b << endl;
-      for (int 1 = 0; 1<n; 1++) {
+      for (int i = 0; i<n; i++) {
          c = a + b;
          a = b;
          b = c;

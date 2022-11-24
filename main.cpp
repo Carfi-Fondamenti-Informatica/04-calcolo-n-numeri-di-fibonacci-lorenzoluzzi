@@ -16,5 +16,6 @@ int main() {
    }
    else {
       cout << "errore" << endl;
+   }
    return 0;
 }
